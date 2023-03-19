@@ -34,3 +34,5 @@ As can be seen in the figure below, the error reached an asymptote after a reaso
 ![](img/error.png)
 
 The figure below shows the dot product between the central vector and all vectors (after dividing them by their Euclidean norm) as produced by the original multivariate probability density function (left side) and the autoencoder (right side). As we can seen, the similarity between the vectors produced by the autoencoder recovers the similarity of the original vectors. The only exception is that we now have a compressed representation of those original vectors, which we can use in a connectionist working memory architecture, or in any other model we want!
+
+![](img/pattern.png)
